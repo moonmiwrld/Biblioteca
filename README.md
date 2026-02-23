@@ -1,2 +1,2 @@
 # Biblioteca
-Gestor de bivlioteca
+Gestor de biblioteca
